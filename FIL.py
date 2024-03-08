@@ -39,7 +39,7 @@ def swagx():
 	ua = "Dalvik/2.1.0 (Linux; U; Android "+str(random.randint(5,14))+"; "+bal+" Build/QP1A."+str(random.randint(111111,999999))+"."+str(random.randint(10,999))+") [FBAN/FB4A;FBAV/202.0.0.19.87;FBBV/55774645;FBDM/{density=2.0,width=720,height=1080};FBLC/en_GB;FBCR/Banglalink;FBMF/Redmi;FBBD/Xiaomi Redmi 9;FBPN/com.facebook.katana;FBDV/M2004J19C;FBSV/10.4.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
 	return ua
 #__________________❲ FILE_METHOD_2_BOX ❳__________________#
-swagxx = "[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";[FBAN/FB4A;FBAV/453.0.0.40.107;FBBV/449617237;FBDM/{density=1.5,width=1080,height=720};FBLC/en_GB;FBCR/Banglalink;FBMF/vivo y02t;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2254;FBSV/6.5.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+swagxx = "[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";[FBAN/FB4A;FBAV/304.0.0.13.87;FBBV/48909173;FBDM/{density=1.5,width=1280,height=1080};FBLC/en_US;FBCR/BANGLALINK;FBMF/vivo;FBBD/Samsung Galaxy Note 10;FBPN/com.facebook.katana;FBDV/SM-N970F;FBSV/10.2.3;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
 #__________________❲ FILE_METHOD_3_BOX ❳__________________#
 def swaxxx():
 	fban = random.choice(["FB4A"])
