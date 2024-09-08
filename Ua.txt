@@ -1,0 +1,5 @@
+["[FBAN/FB4A;FBAV/323.0.0.46.119;FBBV/298672707;FBDM/{density=2.75,width=1080,height=2168};FBLC/ru_RU;FBRV/299927973;FBCR/MTS RUS;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/Redmi Note 9 Pro;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]",     
+"FBAN/FB4A;FBAV/440.0.0.31.105;FBBV/534746235;FBDM/{density=2.8125,width=1080,height=2106};FBLC/zh_HK;FBRV/0;FBCR/csl.;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S9180;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]",
+"[FBAN/FB4A;FBAV/440.0.0.31.105;FBBV/534746244;FBDM/{density=2.625,width=1080,height=2183};FBLC/zh_HK;FBRV/536329137;FBCR/SUN Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A715F;FBSV/13;FBOP/19;FBCA/arm64-v8a:;]",
+"[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=2.86 ,width=1440,height=2560};FBLC/de_CH;FBRV/279865282;FBCR/Swisscom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935FD;FBSV/8.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]",
+"[FBAN/FB4A;FBAV/441.0.0.32.109;FBBV/537036608;FBDM/{density=1.75,width=720,height=1382};FBLC/it_IT;FBRV/538523536;FBCR/Iliad;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105FN;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]"]
